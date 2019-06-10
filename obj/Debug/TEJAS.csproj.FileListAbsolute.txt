@@ -1,0 +1,10 @@
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\bin\Debug\TEJAS.exe.config
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\bin\Debug\TEJAS.exe
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\bin\Debug\TEJAS.pdb
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\obj\Debug\TEJAS.csprojAssemblyReference.cache
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\obj\Debug\TEJAS.Properties.Resources.resources
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\obj\Debug\TEJAS.csproj.GenerateResource.cache
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\obj\Debug\TEJAS.csproj.CoreCompileInputs.cache
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\obj\Debug\TEJAS.exe
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\obj\Debug\TEJAS.pdb
+C:\Users\BINDU KAPOOR\source\repos\TEJAS\TEJAS\obj\Debug\TEJAS.form.resources
